@@ -1,0 +1,13 @@
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/bin/Debug/netcoreapp1.1/appsettings.json
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/bin/Debug/netcoreapp1.1/MyCodeCamp.deps.json
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/bin/Debug/netcoreapp1.1/MyCodeCamp.runtimeconfig.json
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/bin/Debug/netcoreapp1.1/MyCodeCamp.runtimeconfig.dev.json
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/bin/Debug/netcoreapp1.1/MyCodeCamp.dll
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/bin/Debug/netcoreapp1.1/MyCodeCamp.pdb
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/bin/Debug/netcoreapp1.1/MyCodeCamp.Data.dll
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/bin/Debug/netcoreapp1.1/MyCodeCamp.Data.pdb
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/obj/Debug/netcoreapp1.1/MyCodeCamp.csprojResolveAssemblyReference.cache
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/obj/Debug/netcoreapp1.1/MyCodeCamp.csproj.CoreCompileInputs.cache
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/obj/Debug/netcoreapp1.1/MyCodeCamp.AssemblyInfo.cs
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/obj/Debug/netcoreapp1.1/MyCodeCamp.dll
+/Users/Nico/Desktop/Pluralsight/NETCoreAPi/MyCodeCamp/MyCodeCamp/obj/Debug/netcoreapp1.1/MyCodeCamp.pdb
